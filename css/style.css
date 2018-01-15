@@ -1,0 +1,16 @@
+html {
+  background-color: #252C3A;
+  /* HTML CSS Here */
+}
+
+form {
+  background-color: #F1F1F1;
+  padding: 20px;
+  text-align: center;
+  max-width: 300px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #f4f7f8;
+  border-radius: 8px;
+  /* Form CSS Here */
+}
